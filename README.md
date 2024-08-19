@@ -1,4 +1,4 @@
-Removes a file from /usr/local/bin 
+# Removes a file from /usr/local/bin 
 
 usage: addtopath -c new_command
 
