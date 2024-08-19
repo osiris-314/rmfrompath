@@ -1,6 +1,9 @@
 # Removes a file from /usr/local/bin 
 
-usage: addtopath -c new_command
+usage: addtopath -c command_to_remove
+
+
+![rmfrompath](https://github.com/user-attachments/assets/0961b048-4b60-4940-af1f-db50795b236e)
 
 
 -h, --help        show this help message and exit
